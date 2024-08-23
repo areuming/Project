@@ -9,4 +9,4 @@
 
 두번째 프로젝트 : 고객 경험과 결제 처리를 위한 영화 예매 플랫폼
 [ OMG (Our Movie Glitz) ]
-https://github.com/eunmi12/Our-Movie-Glitz
+- https://github.com/eunmi12/Our-Movie-Glitz
